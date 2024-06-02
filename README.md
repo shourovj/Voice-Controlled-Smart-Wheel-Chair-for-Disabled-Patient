@@ -1,8 +1,8 @@
 # Voice-Controlled-Smart-Wheel-Chair-for-Disabled-Patient
 
-This is one of my undergraduate projects that i did with my team
-We developed a method to controll the wheel chair with only the patients voice commands.
-Our wheel chair takes voice commands from the patients in any languge and moves accordingly.
+This is one of my undergraduate projects that i did with my team.
+We developed a method to controll a wheel chair with only the patients voice commands.
+Our wheel chair takes voice commands from the patients in **any languge** and moves accordingly.
 
 First the wheel chair will have to be trained to the patient's voice for specific tasks.  
 For example:  
