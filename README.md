@@ -18,7 +18,7 @@ If the patient says ---
 This repository contains a project report and presentation file details are there  
 
 And the demonstration video is linked below:  
-for the demonstration purpose we trained the command in **"Bangla"**  
+for the demonstration purpose we trained the commandx in both **"Bangla"** and **"English"**
 Here is the video : https://drive.google.com/file/d/1tqr0SWzSdlK2716A4Q5ZF9UyBsamsw6K/view?usp=sharing  
 
 
